@@ -1,3 +1,10 @@
+il webserve si trova su
+doc con swagger
+https://lit-ridge-34418.herokuapp.com/swagger-ui.html#/department-controller/getDepartmentsUsingGET_1
+
+api
+https://lit-ridge-34418.herokuapp.com/api/department
+
 # CrudDepartments
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
